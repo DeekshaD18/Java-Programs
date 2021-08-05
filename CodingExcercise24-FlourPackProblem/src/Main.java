@@ -1,0 +1,8 @@
+public class Main {
+    public static void main(String[] args) {
+        System.out.println(FlourPack.canPack(5,3,24));
+//        System.out.println(FlourPack.canPack(1,0,5));
+//        System.out.println(FlourPack.canPack(0,5,4));
+//        System.out.println(FlourPack.canPack(2,2,11));
+    }
+}
